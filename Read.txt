@@ -1,0 +1,2 @@
+The Program will run in cygwin using "CMakeLists.txt"
+The generated VTK files can be found in bin folder.
